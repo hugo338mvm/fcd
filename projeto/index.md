@@ -2,7 +2,7 @@
 layout: page
 title: Projeto
 has_children: true
-has_toc: false
+has_toc: true
 description: Sobre o Projeto
 nav_order: 2
 ---
@@ -13,6 +13,9 @@ nav_order: 2
 
 Praticar a matéria fazendo uma análise não trivial
 {: .fs-6 .fw-300 }
+
+1. TOC
+{:toc}
 
 ## Sobre
 
